@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-```
+
 <div align= "center">
    <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=120&text=Farmer's%20Code%20Farm&animation=fadeIn&fontColor=9edb1a&fontSize=60" />
    </div>
@@ -50,4 +50,3 @@ Here are some ideas to get you started:
 <img src=https://github-readme-stats.vercel.app/api?username=Baehyeonu&show_icons=true
          /> </div> 
    </div>
-```
